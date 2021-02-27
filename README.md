@@ -1,2 +1,2 @@
 # ejerciciosMillo
-asesoría en solución de problemas
+Asesoría académica en solución de problemas
